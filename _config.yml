@@ -1,15 +1,15 @@
 # Site settings
-title: "Ash Bhimasani"
-page_title: "Ash Bhimasani - Artist & Maker"
+title: "bapu.bhimasani.com"
+page_title: "My Bapu - bapu.bhimasani.com"
 email: 16abhimasani@gmail.com
-description: "Ash Bhimasani is a multimedia artist and maker from Philadelphia."
+description: "In the memory of my father Sri. Bhimasani Harinarayan who passed away on Sep 10th 2016"
 
 # Server
 baseurl: ""
 destination: _site
 host: 0.0.0.0
 port: 4001
-url: http://ash.bhimasani.com
+url: http://bapu.bhimasani.com
 encoding: UTF-8
 
 # Excludes
@@ -27,4 +27,4 @@ kramdown:
   syntax_highlighter: rouge
 
 # Repo
-repo: https://github.com/16abhimasani/16abhimasani.github.io
+repo: https://github.com/bapu-bhimasani/bapu-bhimasani.github.io
