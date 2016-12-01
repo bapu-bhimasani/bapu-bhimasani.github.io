@@ -66,71 +66,71 @@ A timeline of pictures of my father Sri. Bhimasani Harinarayan.
 > 2008
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1314.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1314.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1368.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1368.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1319.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1319.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1429.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1429.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1457.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1457.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1580.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1580.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/100_1636.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/100_1636.JPG" width="100%" height="auto">
 </figure>
 
 > 2010
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_1753.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_1753.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_1760.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_1760.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_1792.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_1792.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_1846.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_1846.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_1867.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_1867.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_2181.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_2181.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_2259.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_2259.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_2268.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_2268.JPG" width="100%" height="auto">
 </figure>
 
 > 2011
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_3332.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_3332.JPG" width="100%" height="auto">
 </figure>
 
 <figure class="hero">
@@ -140,11 +140,11 @@ A timeline of pictures of my father Sri. Bhimasani Harinarayan.
 > 2012
 
 <figure class="hero">
-	<img src="/assets/images/photos/IMG_5430.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/IMG_5430.JPG" width="100%" height="auto">
 </figure>
 
 > 2014
 
 <figure class="hero">
-	<img src="/assets/images/photos/DSC_5848.jpg" width="100%" height="auto">
+	<img src="/assets/images/photos/DSC_5848.JPG" width="100%" height="auto">
 </figure>
