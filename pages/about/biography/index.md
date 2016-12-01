@@ -105,7 +105,6 @@ A timeline of pictures of my father Sri. Bhimasani Harinarayan.
 
 <figure class="hero">
 	<img src="/assets/images/photos/IMG_1792.JPG" width="100%" height="auto">
-	<figcaption> </figcaption>
 </figure>
 
 <figure class="hero">
@@ -148,5 +147,4 @@ A timeline of pictures of my father Sri. Bhimasani Harinarayan.
 
 <figure class="hero">
 	<img src="/assets/images/photos/DSC_5848.JPG" width="100%" height="auto">
-	<figcaption> </figcaption>
 </figure>
